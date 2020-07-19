@@ -4,7 +4,7 @@
 #sendmsg {background-color: rgba(0, 0, 0, 0.6)}
 #msgbox {background-color: rgba(0, 0, 0, 0.8)}
 #guild-list {background-color: rgba(0, 0, 0, 0.8)}
-#userCard {background-color: rgba(0, 0, 0, 0.8)}
+#userSettings {background-color: rgba(0, 0, 0, 0.8)}
 #serverName {background-color: rgba(0, 0, 0, 0.8);width: 260px}
 .messageBlock:hover {background-color: rgba(10, 10, 10, 0.7)}
 .embed {background-color: rgba(25, 25, 25, 0.8)}
