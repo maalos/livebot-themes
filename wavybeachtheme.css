@@ -1,6 +1,6 @@
 @import url(https://cdn.jsdelivr.net/gh/maalos/livebot-themes@latest/transparent-theme.css);
 body {
-  background-size: 100vh 100vh;
+  background-size: 100vh 100vw;
   background-repeat: no-repeat;
   background-image: url('https://images8.alphacoders.com/926/thumb-1920-926492.jpg')
 }
