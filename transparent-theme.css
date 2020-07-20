@@ -19,3 +19,8 @@
 .spoilerBlock.discovered:hover {background-color: rgba(50, 50, 50, 0.9)}
 .ping {background-color: rgba(25, 25, 25, 0.3); color: white}
 .ping:hover {background-color: rgba(25, 25, 25, 0.4); color: white}
+#optionGroups {background-color: rgba(50, 50, 50, 0.9);}
+.settingsPopup {background-color: rgba(25, 25, 25, 0.9);}
+.dropdownDisplay {background-color: rgba(25, 25, 25, 0.9);}
+.dropdownChildren {background-color: rgba(25, 25, 25, 0.9);}
+.settingsUpdateButton {background-color: rgba(10, 10, 10, 0.9);}
