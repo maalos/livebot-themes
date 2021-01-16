@@ -1,3 +1,3 @@
-# livebot-themes
+# livebot-transparent-theme
 
-This repo contains themes for livebot.
+This repo contains a transparent theme for livebot.
